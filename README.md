@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Alec Gautreaux preferred name Ali. 
-- 👀 I’m interested in pentration testing
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in Pentration Testing
+- 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me https://www.linkedin.com/in/alec-gautreaux 
 
 <!---
